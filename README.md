@@ -15,7 +15,7 @@
 - Generative AI
 - Data Science
 - Business Analytics
-- Backend Development
+- Web Development
 - Cloud Computing
 - Open Source
 
