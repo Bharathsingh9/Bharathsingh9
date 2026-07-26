@@ -24,7 +24,7 @@
 ##  Connect with Me
 
  **Email:** 
- bharathpalthyavath@gmail.com
+bharathpalthyavath@gmail.com
 
  **LinkedIn:**  
 https://www.linkedin.com/in/bharath-singh-palthyavath-120016324
